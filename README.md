@@ -39,12 +39,6 @@ I build practical AI workflows, native apps, and product systems that turn messy
 | Home Canvas | Home renovation planning and project tracking. | Private build |
 | PlantPulse | Plant care dashboard with reminders and care guidance. | Private build |
 
-### Client / Business Sites
-
-| Project | What it is | Status |
-|---|---|---|
-| Eber Strategic Alliance | Static marketing site for a marketplace operations agency. | Private build |
-
 ## Toolkit
 
 ### Languages
