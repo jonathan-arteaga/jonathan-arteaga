@@ -14,7 +14,7 @@ I build practical AI workflows, native apps, and product systems that turn messy
 
 | Project | What it is | Status |
 |---|---|---|
-| [QuillLook](https://github.com/jonathan-arteaga/quill-look) | Preview Markdown in Finder with Space. | Public |
+| [MarkView](https://github.com/jonathan-arteaga/mark-view) | Preview Markdown in Finder with Space. | Public |
 | [Astro Lens](https://github.com/jonathan-arteaga/astro-lens) | Native capture studio for screenshots, recordings, and lightweight editing. | Public |
 | [TrailShot](https://github.com/jonathan-arteaga/trail-shot-app) | Local-first screenshot and annotation utility for Salesforce workflows. | Public |
 | Peekaboo | Menu bar folder launcher and Quick Look workspace. | Private build |
