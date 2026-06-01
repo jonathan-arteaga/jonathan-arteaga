@@ -16,14 +16,7 @@ I build practical AI workflows, native apps, and product systems that turn messy
 |---|---|---|
 | [MarkView](https://github.com/jonathan-arteaga/mark-view) | Preview Markdown in Finder with Space. | Public |
 | [CaptureCue](https://github.com/jonathan-arteaga/capture-cue) | Native capture studio for screenshots, recordings, and lightweight editing. | Public |
-| [TrailShot](https://github.com/jonathan-arteaga/trail-shot-app) | Local-first screenshot and annotation utility for Salesforce workflows. | Public |
-| Peekaboo | Menu bar folder launcher and Quick Look workspace. | Private build |
-
-### AI + Personal Productivity
-
-| Project | What it is | Status |
-|---|---|---|
-| Morrow / Marrow | Calm AI-curated reading companion for saved ideas. | Private build |
+| MouseKit | Local-first macOS utility for configuring Logitech MX Master devices. | Private build |
 
 ### Salesforce / SE Tools
 
