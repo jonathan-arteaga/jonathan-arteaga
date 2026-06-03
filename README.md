@@ -1,74 +1,58 @@
-# Jonathan Arteaga
+<h1 align="center">Jonathan Arteaga</h1>
 
-I build practical AI workflows, native apps, and product systems that turn messy work into clear, usable tools.
-
-<p>
-  <a href="https://github.com/jonathan-arteaga"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-jonathan--arteaga-111111?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/arteagajonathan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-arteagajonathan-111111?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:jonathan@rteaga.com"><img alt="Email" src="https://img.shields.io/badge/Email-jonathan%40rteaga.com-111111?style=flat-square&logo=maildotru&logoColor=white"></a>
+<p align="center">
+  <strong>GitHub profile README for work across Apple apps, Salesforce tools, and web products.</strong>
 </p>
 
-## Building
-
-### macOS Apps
-
-| Project | What it is | Status |
-|---|---|---|
-| [MarkView](https://github.com/jonathan-arteaga/mark-view) | Preview Markdown in Finder with Space. | Public |
-| [CaptureCue](https://github.com/jonathan-arteaga/capture-cue) | Native capture studio for screenshots, recordings, and lightweight editing. | Public |
-| MouseKit | Local-first macOS utility for configuring Logitech MX Master devices. | Private build |
-
-### Salesforce / SE Tools
-
-| Project | What it is | Status |
-|---|---|---|
-| SE Navigator | Workspace for solution engineering workflows and customer-ready assets. | Private build |
-| [SE VibeKit](https://github.com/jonathan-arteaga/se-vibe-kit) | Playbooks, prompts, templates, and repo handoffs for field teams. | Public |
-
-### Web Apps + Product Experiments
-
-| Project | What it is | Status |
-|---|---|---|
-| Home Canvas | Home renovation planning and project tracking. | Private build |
-| PlantPulse | Plant care dashboard with reminders and care guidance. | Private build |
-
-## Toolkit
-
-### Languages
-
-<p>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-111111?style=flat-square&logo=swift&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css&logoColor=white">
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-111111?style=flat-square&logo=markdown&logoColor=white">
+<p align="center">
+  <img alt="Profile" src="https://img.shields.io/badge/Profile-111111">
+  <img alt="Apple Apps" src="https://img.shields.io/badge/Apple%20Apps-111111">
+  <img alt="Web Apps" src="https://img.shields.io/badge/Web%20Apps-111111">
 </p>
 
-### Frameworks
-
-<p>
-  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-111111?style=flat-square&logo=swift&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square&logo=shadcnui&logoColor=white">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white">
+<p align="center">
+  <a href="#key-features"><strong>Key Features</strong></a>
+  ·
+  <a href="#how-to-use">How To Use</a>
+  ·
+  <a href="#download">Download</a>
+  ·
+  <a href="#credits">Credits</a>
+  ·
+  <a href="#related">Related</a>
+  ·
+  <a href="#license">License</a>
 </p>
 
-### Builder Tools
+![Jonathan Arteaga screenshot](docs/assets/screenshot.png)
 
-<p>
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-111111?style=flat-square&logo=xcode&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="npm" src="https://img.shields.io/badge/npm-111111?style=flat-square&logo=npm&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-111111?style=flat-square&logo=vitest&logoColor=white">
-  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-111111?style=flat-square&logo=eslint&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white">
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white">
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-111111?style=flat-square&logo=anthropic&logoColor=white">
-</p>
+## Key Features
+
+- **Project index** - Highlights active macOS apps, Salesforce tools, web apps, and product experiments.
+- **Builder profile** - Summarizes practical product engineering work across Swift, TypeScript, and automation.
+- **Consistent links** - Keeps the public profile aligned with the related repos in this workspace.
+
+## How To Use
+
+```bash
+# Edit README.md.
+# Push to main to update the GitHub profile.
+```
+
+## Download
+
+This repo powers the GitHub profile README and does not ship a downloadable app.
+
+## Credits
+
+Maintained by Jonathan Arteaga.
+
+## Related
+
+- [CaptureCue](https://github.com/jonathan-arteaga/capture-cue)
+- [MarkView](https://github.com/jonathan-arteaga/mark-view)
+- [SE VibeKit](https://github.com/jonathan-arteaga/se-vibe-kit)
+
+## License
+
+No license file is currently included.
