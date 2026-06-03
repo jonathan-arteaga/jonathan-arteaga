@@ -1,58 +1,60 @@
+#
+
 <h1 align="center">Jonathan Arteaga</h1>
 
-<p align="center">
-  <strong>GitHub profile README for work across Apple apps, Salesforce tools, and web products.</strong>
-</p>
+#### A GitHub profile README for Apple apps, Salesforce tools, and web product work.
 
-<p align="center">
-  <img alt="Profile" src="https://img.shields.io/badge/Profile-111111">
-  <img alt="Apple Apps" src="https://img.shields.io/badge/Apple%20Apps-111111">
-  <img alt="Web Apps" src="https://img.shields.io/badge/Web%20Apps-111111">
-</p>
+![Profile](https://img.shields.io/badge/Profile-111111) ![Apple Apps](https://img.shields.io/badge/Apple%20Apps-111111) ![Web Apps](https://img.shields.io/badge/Web%20Apps-111111)
 
-<p align="center">
-  <a href="#key-features"><strong>Key Features</strong></a>
-  ·
-  <a href="#how-to-use">How To Use</a>
-  ·
-  <a href="#download">Download</a>
-  ·
-  <a href="#credits">Credits</a>
-  ·
-  <a href="#related">Related</a>
-  ·
-  <a href="#license">License</a>
-</p>
+[Key Features](#key-features) &bull; [How To Use](#how-to-use) &bull; [Download](#download) &bull; [Credits](#credits) &bull; [Related](#related) &bull; [Support](#support) &bull; [You may also like](#you-may-also-like) &bull; [License](#license)
 
-![Jonathan Arteaga screenshot](docs/assets/screenshot.png)
+![screenshot](docs/assets/screenshot.png)
 
 ## Key Features
 
-- **Project index** - Highlights active macOS apps, Salesforce tools, web apps, and product experiments.
-- **Builder profile** - Summarizes practical product engineering work across Swift, TypeScript, and automation.
-- **Consistent links** - Keeps the public profile aligned with the related repos in this workspace.
+- Project index - Highlights active macOS apps, Salesforce tools, web apps, and product experiments.
+- Builder profile - Summarizes practical product engineering work across Swift, TypeScript, and automation.
+- Consistent links - Keeps the public profile aligned with the related repos in this workspace.
 
 ## How To Use
 
+To update the GitHub profile README:
+
 ```bash
-# Edit README.md.
-# Push to main to update the GitHub profile.
+# Edit README.md
+git add README.md docs/assets/screenshot.png
+git commit -m "Update profile README"
+git push origin main
 ```
 
 ## Download
 
-This repo powers the GitHub profile README and does not ship a downloadable app.
+This repository powers the GitHub profile README and does not ship a downloadable app.
 
 ## Credits
 
-Maintained by Jonathan Arteaga.
+- Maintained by Jonathan Arteaga.
 
 ## Related
 
+- [CaptureCue](https://github.com/jonathan-arteaga/capture-cue) - macOS capture studio.
+- [MarkView](https://github.com/jonathan-arteaga/mark-view) - Markdown Quick Look extension.
+- [SE VibeKit](https://github.com/jonathan-arteaga/se-vibe-kit) - SE workflow asset library.
+
+## Support
+
+Use the related project repositories for product-specific questions or fixes.
+
+## You may also like
+
 - [CaptureCue](https://github.com/jonathan-arteaga/capture-cue)
 - [MarkView](https://github.com/jonathan-arteaga/mark-view)
-- [SE VibeKit](https://github.com/jonathan-arteaga/se-vibe-kit)
+- [Navigator](https://github.com/jonathan-arteaga/se-navigator)
 
 ## License
 
 No license file is currently included.
+
+---
+
+> [jonathanarteaga.com](https://jonathanarteaga.com) &nbsp;&middot;&nbsp; GitHub [@jonathan-arteaga](https://github.com/jonathan-arteaga)
