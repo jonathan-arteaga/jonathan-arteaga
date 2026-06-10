@@ -1,60 +1,50 @@
-#
-
 <h1 align="center">Jonathan Arteaga</h1>
 
-#### A GitHub profile README for Apple apps, Salesforce tools, and web product work.
+<p align="center">
+  <strong>AI Strategic Solutions Engineer at Salesforce</strong>
+</p>
 
-![Profile](https://img.shields.io/badge/Profile-111111) ![Apple Apps](https://img.shields.io/badge/Apple%20Apps-111111) ![Web Apps](https://img.shields.io/badge/Web%20Apps-111111)
+<p align="center">
+  Building practical AI systems, demos, enablement tools, and trusted handoffs for sales and customer teams.
+</p>
 
-[Key Features](#key-features) &bull; [How To Use](#how-to-use) &bull; [Download](#download) &bull; [Credits](#credits) &bull; [Related](#related) &bull; [Support](#support) &bull; [You may also like](#you-may-also-like) &bull; [License](#license)
+<p align="center">
+  <a href="https://rteaga.com/">Website</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/arteagajonathan">LinkedIn</a> &nbsp;&middot;&nbsp;
+  <a href="mailto:jonathan@rteaga.com">Email</a> &nbsp;&middot;&nbsp;
+  <a href="https://github.com/jonathan-arteaga">GitHub</a>
+</p>
 
-![screenshot](docs/assets/screenshot.png)
+## What I Work On
 
-## Key Features
+| Focus | Description |
+| --- | --- |
+| Trusted AI workflows | Practical AI patterns that help teams move from idea to reliable execution. |
+| Demo and enablement systems | Reusable assets, demos, and guides that make complex capabilities easier to explain. |
+| Product-ready internal tools | Focused apps and prototypes with clean UX, maintainable code, and clear handoffs. |
 
-- Project index - Highlights active macOS apps, Salesforce tools, web apps, and product experiments.
-- Builder profile - Summarizes practical product engineering work across Swift, TypeScript, and automation.
-- Consistent links - Keeps the public profile aligned with the related repos in this workspace.
+## Salesforce Coverage
 
-## How To Use
+| AI + Data | Core CRM + Platform |
+| --- | --- |
+| Agentforce<br>Data Cloud<br>Slack | Sales Cloud<br>Service Cloud<br>Flow<br>Apex / Lightning Web Components<br>Integrations / APIs |
 
-To update the GitHub profile README:
+## Builder Stack
 
-```bash
-# Edit README.md
-git add README.md docs/assets/screenshot.png
-git commit -m "Update profile README"
-git push origin main
-```
+| App/UI | Languages | Tools |
+| --- | --- | --- |
+| SwiftUI<br>React<br>Next.js<br>Tailwind CSS<br>shadcn/ui | Swift<br>TypeScript<br>JavaScript<br>HTML<br>CSS<br>Markdown | Xcode<br>Node.js<br>GitHub Actions<br>Vitest<br>ESLint<br>Vercel<br>OpenAI<br>Claude |
 
-## Download
+## Selected Work
 
-This repository powers the GitHub profile README and does not ship a downloadable app.
-
-## Credits
-
-- Maintained by Jonathan Arteaga.
-
-## Related
-
-- [CaptureCue](https://github.com/jonathan-arteaga/capture-cue) - macOS capture studio.
-- [MarkView](https://github.com/jonathan-arteaga/mark-view) - Markdown Quick Look extension.
-- [SE VibeKit](https://github.com/jonathan-arteaga/se-vibe-kit) - SE workflow asset library.
-
-## Support
-
-Use the related project repositories for product-specific questions or fixes.
-
-## You may also like
-
-- [CaptureCue](https://github.com/jonathan-arteaga/capture-cue)
-- [MarkView](https://github.com/jonathan-arteaga/mark-view)
-- [Navigator](https://github.com/jonathan-arteaga/se-navigator)
-
-## License
-
-No license file is currently included.
+| Project | Notes |
+| --- | --- |
+| [se-vibe-kit](https://github.com/jonathan-arteaga/se-vibe-kit) | SE workflow asset library |
+| [se-navigator](https://github.com/jonathan-arteaga/se-navigator) | SE deal navigation prototype |
+| [mark-view](https://github.com/jonathan-arteaga/mark-view) | Markdown Quick Look extension |
+| [capture-cue](https://github.com/jonathan-arteaga/capture-cue) | macOS capture studio |
+| [personal-portfolio](https://github.com/jonathan-arteaga/personal-portfolio) | Portfolio website source |
 
 ---
 
-> [jonathanarteaga.com](https://jonathanarteaga.com) &nbsp;&middot;&nbsp; GitHub [@jonathan-arteaga](https://github.com/jonathan-arteaga)
+For the fuller story, examples, and field notes, visit [rteaga.com](https://rteaga.com/).
