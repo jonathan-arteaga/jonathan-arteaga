@@ -10,10 +10,10 @@ I scope AI work with executive sponsors, build the first working version myself,
 
 ## Selected public work
 
-- [AI Skills](https://github.com/jonathan-arteaga/ai-skills) — Original, reusable agent skills for framing concepts, reviewing apps, validating claims, and writing reproducible demos.
+- [AI Skills](https://github.com/jonathan-arteaga/ai-skills) — Reusable instruction packs for AI assistants: planning projects, reviewing apps, checking claims, and documenting work.
 
 ## Currently learning
 
-- Evals for agentic workflows
+- Evaluating AI agent workflows
 - Production Python alongside TypeScript
 - Writing plainly about deployment tradeoffs and failure modes
