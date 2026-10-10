@@ -14,6 +14,6 @@ I scope AI work with executive sponsors, build the first working version myself,
 
 ## Currently learning
 
-- Evals for agentic workflows
+- Evaluating AI agent workflows
 - Production Python alongside TypeScript
 - Writing plainly about deployment tradeoffs and failure modes
